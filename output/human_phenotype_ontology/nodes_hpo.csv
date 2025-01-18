@@ -1,0 +1,102 @@
+id|alternative_ids|label|source|source_url|synonyms|term_name
+hp_0005025||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Hypoplastic distal humeri
+hp_0030328||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Decreased osteoclast count
+hp_0003784||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Type 1 collagen overmodification
+hp_0032731||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Focal aware hyperkinetic seizure
+hp_0008922|"[""HP:0003522""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Childhood-onset short-trunk short stature"", ""Disproportionate short-trunk short stature, identifiable in childhood"", ""Short-trunk dwarfism identifiable during childhood""]"|Childhood-onset short-trunk short stature
+hp_0010949||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormality of umbilical vein blood flow
+hp_0012371|"[""HP:0010279""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Hypertrophy of midface"", ""Overgrowth of the midface"", ""Midface hyperplasia"", ""Midfacial excess"", ""Midfacial prominence""]"|Hyperplasia of midface
+hp_0009101||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Submucous labial cleft""]"|Submucous cleft lip
+hp_0100675||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Vaginal pyocele
+hp_0008078||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Thin metatarsal cortices
+hp_0033160||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Decreased urinary guanosine level
+hp_0033145||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Increased circulating ceruloplasmin concentration
+hp_5200297||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormal waking""]"|Abnormal hypnopompia
+hp_0012845||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Single trichilemmoma
+hp_0410288||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Increased circulating amylase level""]"|Hyperamylasemia
+hp_0001223||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Pointed proximal second through fifth metacarpals
+hp_0005186||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Synovial hyperplasia"", ""Synovial hypertrophy""]"|Synovial lining hyperplasia
+hp_0012405||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Decreased urine citrate concentration""]"|Hypocitraturia
+hp_0033969||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Necrosis within interlobular vein intima/media""]"|Interlobular vein intima/media necrosis
+hp_0025336||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Delayed ability to sit
+hp_0008110||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Equinovarus deformity
+hp_5200213||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Diminishment of empathy""]"|Diminishment of emotional responsiveness
+hp_0500192||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormal isoleucine levels in cerebrospinal fluid""]"|Abnormal CSF isoleucine concentration
+hp_0030778||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Modic type 3 vertebral endplate changes""]"|Modic type III vertebral endplate changes
+hp_0410251||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal L-selectin shedding
+hp_0002152||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Hyperproteinemia
+hp_0002313|"[""HP:0007191""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Spastic paraparesis
+hp_0100379||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absent distal phalanx of the 4th toe"", ""Absent outermost bone of the 4th toe""]"|Aplasia of the distal phalanx of the 4th toe
+hp_6000729||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Positive CSF fungus test
+hp_0006739|"[""HP:0007614""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Squamous skin carcinoma""]"|Squamous cell carcinoma of the skin
+hp_0002322||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Parkinsonian tremor"", ""Rest tremor"", ""Resting tremor"", ""Tremor at rest""]"|Resting tremor
+hp_0009023|"[""HP:0001546"", ""HP:0004873""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Lax abdominal musculature""]"|Abdominal wall muscle weakness
+hp_6000047||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Chest pain reproducible on palpation""]"|Chest pain triggered by palpitation
+hp_0001952|"[""HP:0000833""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Glucose intolerance""]"|Glucose intolerance
+hp_0041167||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""bone cervical vertebra""]"|Fractured cervical vertebra
+hp_0005558||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Chronic leukaemia""]"|Chronic leukemia
+hp_0011903||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Haemoglobin H"", ""HbH haemoglobin"", ""Hemoglobin H""]"|HbH hemoglobin
+hp_0031416||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal nasal mucus secretion
+hp_0020058||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormal RBC count""]"|Abnormal red blood cell count
+hp_0033439||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Elevated circulating C10:1 acylcarnitine concentration"", ""Elevated circulating O-decenoylcarnitine concentration"", ""Elevated plasma decenoylcarnitine, C10:1""]"|Elevated circulating decenoylcarnitine concentration
+hp_0012823|"[""HP:0000004""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Phenotypic modifier""]"|Clinical modifier
+hp_0030556||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Best corrected visual acuity 0.3 LogMAR
+hp_0000971||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormalities of sweating"", ""Sweat gland disease"", ""Abnormality of the sweat gland""]"|Abnormal sweat gland morphology
+hp_0040423||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal urinary guanosine level
+hp_0100882||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Fibrous hamartoma of infancy""]"|Fibrous hamartoma
+hp_0010004|"[""HP:0006196""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Bifid terminal phalanges of the hand"", ""Partial duplication of the outermost bone of the hand""]"|Partial duplication of the distal phalanges of the hand
+hp_0011048||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absence of permanent lower central incisor"", ""Absence of permanent lower front tooth"", ""Absence of permanent mandibular central incisor"", ""Missing adult lower central incisor"", ""Missing permanent lower central incisor"", ""Missing permanent lower front tooth"", ""Missing permanent mandibular central incisor"", ""Agenesis of adult mandibular central incisor"", ""Failure of development of permanent mandibular central incisor""]"|Agenesis of permanent mandibular central incisor
+hp_0025252||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Annulus migrans"", ""Benign migratory glossitis"", ""Glossitis areata exfoliativa"", ""Lingual erythema migrans"", ""Wandering rash of the tongue""]"|Geographic tongue
+hp_0100099||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormality of the end part of the innermost bone of the little toe"", ""Abnormality of the end part of the innermost bone of the pinkie toe"", ""Abnormality of the end part of the innermost bone of the pinky toe""]"|Abnormality of the epiphysis of the proximal phalanx of the 5th toe
+hp_0041065||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Chronic (near) absent IgG2 in blood""]"|Chronic (near) absent circulating IgG2
+hp_0003238||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Hyperpepsinogenemia I
+hp_0500023||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absent shoulder muscle""]"|Shoulder muscle aplasia
+hp_0011556||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Double inlet right ventricle
+hp_6000521||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Elevated circulating lipoprotein(a) concentration
+hp_0007370|"[""HP:0007003"", ""HP:0007060"", ""HP:0007061"", ""HP:0007137""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absent/hypoplastic corpus callosum"", ""Agenesis/hypoplastic corpus callosum"", ""Complete or partial absence of the corpus callosum"", ""Hypoplasia or absence of the corpus callosum"", ""Hypoplastic or absent corpus callosum""]"|Aplasia/Hypoplasia of the corpus callosum
+hp_0000543|"[""HP:0001148"", ""HP:0001484""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Disc pallor"", ""Pale optic discs"", ""Pale optic disc""]"|Optic disc pallor
+hp_0034904||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Decreased circulating TRH concentration"", ""Thyrotropin releasing hormone (TRH) low in blood""]"|Decreased circulating thyrotropin releasing hormone concentration
+hp_0031986||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Minipolymyoclonus""]"|Polyminimyoclonus
+hp_0030601||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal posterior segment imaging
+hp_0040009||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Hyperparakeratosis
+hp_0004050||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absent hand"", ""Acheiria""]"|Absent hand
+hp_0009382||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Absent end part of little finger bone"", ""Absent end part of pinkie finger bone"", ""Absent end part of pinky finger bone""]"|Absent epiphyses of the 5th finger
+hp_0410302||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Decreased specific antibody response to protein-conjugated polysaccharide vaccine
+hp_4000180||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Tricyclic antidepressant use""]"|Tricyclic antidepressant exposure
+hp_0000650||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal amplitude of pattern reversal visual evoked potentials
+hp_6000395||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Positive CSF VDRL test
+hp_6000326||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Cardiac valve vegetations
+hp_0030676||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Devil ear""]"|Satyr ear
+hp_0004331|"[""HP:0003780""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Decreased calcification of skull"", ""Decreased mineralization of skull"", ""Decreased bone formation of skull"", ""Deficient skull ossification"", ""Hypoossification of skull"", ""Ossification defect of skull"", ""Poorly mineralized skull"", ""Poorly ossified skull"", ""Poorly ossified skull bones""]"|Decreased skull ossification
+hp_0034793||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Small intestinal hamartoma
+hp_0034451||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Vesicorectal fistula""]"|Rectovesical fistula
+hp_0010931||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormal blood Na+ levels"", ""Abnormal circulating Na concentration"", ""Abnormality of sodium homeostasis""]"|Abnormal blood sodium concentration
+hp_0010930||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormality of monovalent inorganic cation homeostasis""]"|Abnormal blood monovalent inorganic cation concentration
+hp_0030136||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Enhanced ristocetin cofactor assay activity
+hp_0011850||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Parotitis
+hp_0040254||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Decreased size of the clitoris
+hp_0500151||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""High blood cystine levels"", ""Increased blood cystine concentration""]"|Hypercystinemia
+hp_5200040||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Excessively quiet voice"", ""Excessively soft voice"", ""Speech to soft for context""]"|Excessively quiet speech
+hp_0032140||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Decreased specific antibody response to vaccination
+hp_0032898||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Focal automatism seizure
+hp_0040327||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal morphology of the olfactory bulb
+hp_0001498|"[""HP:0001209"", ""HP:0006029"", ""HP:0006072"", ""HP:0006117"", ""HP:0006130"", ""HP:0006227""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Hypoplasia of carpal bones"", ""Hypoplastic carpal bones"", ""Small carpal bones"", ""Small carpals""]"|Carpal bone hypoplasia
+hp_6000609||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Elevated urinary 3-hydroxyadipate level""]"|Elevated urinary 3-hydroxyadipic acid level
+hp_0025529||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Hyperpigmented nodule
+hp_0011194||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||EEG with series of focal spikes
+hp_0025023||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Atresia of the rectum""]"|Rectal atresia
+hp_0034902||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Abnormal circulating calcitonin concentration
+hp_0030546||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Unaided visual acuity 1.1 LogMAR
+hp_0004461||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Congenital earlobe sinuses
+hp_0006930||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Frontoparietal cortical dysplasia
+hp_0007141|"[""HP:0007055"", ""HP:0007237""]"|hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Mixed polyneuropathy"", ""Nerve damage causing decreased feeling and movement"", ""Sensorimotor peripheral neuropathy""]"|Sensorimotor neuropathy
+hp_0012175||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Activated protein C resistance""]"|Resistance to activated protein C
+hp_0500161||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""High blood carnosine levels"", ""Increased blood carnosine concentration"", ""Increased level of carnosine in blood""]"|Increased circulating carnosine concentration
+hp_0033283||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Segmentally thickened glomerular basement membrane
+hp_0033968||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Granulomatous venulitis within interlobular vein intima/media""]"|Interlobular vein intima/media granulomatous venulitis
+hp_0011147||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Typical absence"", ""Typical absence seizures""]"|Typical absence seizure
+hp_0007601||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Midline facial capillary hemangioma
+hp_0033100||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Increased proteinogenic amino acid level in urine
+hp_0011422||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Abnormal blood Cl concentration"", ""Abnormal blood Cl- concentration"", ""Abnormality of chloride homeostasis""]"|Abnormal blood chloride concentration
+hp_6000664||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl||Right ventricular regional wall motion abnormality
+hp_0002321||hpo|Human Phenotype Ontology|http://purl.obolibrary.org/obo/hp.owl|"[""Dizziness"", ""Dizzy spell""]"|Vertigo

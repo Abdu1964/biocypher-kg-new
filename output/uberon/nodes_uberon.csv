@@ -1,0 +1,102 @@
+id|alternative_ids|label|source|source_url|synonyms|term_name
+uberon_0036143||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""nervus spinosus"", ""nervus spinosus"", ""ramus meningeus (Nervus mandibularis)"", ""ramus meningeus nervus mandibularis""]"|meningeal branch of mandibular nerve
+uberon_0014455||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""abdominal subcutaneous adipose tissue"", ""subcutaneous abdominal fat"", ""subcutaneous fat of abdominal region""]"|subcutaneous abdominal adipose tissue
+uberon_0007127||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""6th arch branchial pouch"", ""6th branchial pouch"", ""pharyngeal pouches 6"", ""sixth visceral pouch"", ""visceral pouch 6""]"|pharyngeal pouch 6
+uberon_3010226||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||postiliac glands
+go_0016445||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""somatic diversification of antibodies""]"|somatic diversification of immunoglobulins
+uberon_0010229||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""ruminant reticular groove""]"|ruminant esophageal groove
+go_0097530||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||granulocyte migration
+cl_0002561||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||outer root sheath cell
+uberon_0003378||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""atrium auricular region cardiac muscle"", ""auricular region heart muscle"", ""cardiac muscle tissue of auricle""]"|cardiac muscle of auricular region
+ncbitaxon_7399|"[""NCBITaxon:27522"", ""NCBITaxon:27527"", ""NCBITaxon:27531""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""hymenopterans"", ""hymenopterans""]"|Hymenoptera
+uberon_0003550||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""forebrain pia mater of neuraxis"", ""pia mater of forebrain"", ""pia mater of neuraxis of forebrain""]"|forebrain pia mater
+0000-0002-0098-8958||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||
+uberon_0034707||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||differentiating neuroepithelium
+ncbitaxon_9821|"[""NCBITaxon:39423""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""boars"", ""pigs""]"|Suidae
+go_0042116||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""macrophage polarization""]"|macrophage activation
+uberon_0002285||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""forebrain ventricle"", ""lateral ventricle of brain"", ""tectal ventricle"", ""telencephalic ventricles"", ""telencephalic vesicle"", ""lateral ventricle"", ""lateral ventricles"", ""telencephalic ventricle"", ""telencephalon lateral ventricle""]"|telencephalic ventricle
+uberon_2002279||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||pectoral fin distal radial bone 2
+uberon_0004454|"[""UBERON:0002388""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""articulatio talocruralis"", ""hind basipodium"", ""hind mesopodium"", ""hock"", ""ankle"", ""ankle region"", ""tarsal limb segment""]"|tarsal region
+cl_0009006||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""small intestine enteroendocrine cell""]"|enteroendocrine cell of small intestine
+uberon_0034926||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||anatomical row
+uberon_0002287||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""optic recesses"", ""preoptic recess"", ""recessus opticus"", ""recessus praeopticus"", ""recessus supraopticus"", ""supraoptic recess"", ""optic recess"", ""preoptic recess"", ""recessus supraopticus"", ""supraoptic recess""]"|optic recess of third ventricle
+go_0061687||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||detoxification of inorganic compound
+uberon_0008947||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||respiratory primordium
+go_0021982||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""epiphysis development""]"|pineal gland development
+uberon_0005941||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""inner root sheath"", ""hair follicle inner root sheath"", ""inner root sheath of hair follicle"", ""inner sheath of hair follicle"", ""internal root sheath of hair follicle""]"|hair inner root sheath
+uberon_0026584||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""canaliculus tympanicus"", ""jacobsons canaliculus"", ""tympanic canal"", ""tympanic canaliculus""]"|tympanic canal
+uberon_8700002||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||stratum spinosum of esophageal epithelium
+uberon_0003013||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""ala lobuli centralis"", ""lobule II and III of hemisphere of cerebellum"", ""ala centralis"", ""alae of central lobule"", ""lobules II, III of vermis""]"|alar central lobule
+uberon_0015040||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""pedal digit 4 metatarsal element"", ""pedal digit IV metatarsal endochondral element""]"|pedal digit 4 metatarsal endochondral element
+uberon_0035092||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""M. spinalis caudalis"", ""spinalis caudalis""]"|spinalis caudalis muscle
+nbo_0000313|"[""NBO:0000000""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""behavior"", ""behaviour""]"|behavior process
+cl_0000021||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||female germ cell
+mesh_a08.663.256.500||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||
+uberon_0014753||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||P3 area of pallium (Myxiniformes)
+go_0061102||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""gastric neuroendocrine cell differentiation""]"|stomach neuroendocrine cell differentiation
+uberon_0001325||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""muscle organ of pelvis"", ""pelvic muscle"", ""pelvis muscle"", ""pelvis muscle organ""]"|muscle of pelvis
+uberon_0011206||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""ginglymus""]"|hinge joint
+cl_2000022||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||cardiac septum cell
+go_0071742||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||IgE immunoglobulin complex
+uberon_0014522||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""dorsolateral nucleus of oculomotor nuclear complex"", ""nucleus dorsalis nervi oculomotorii"", ""oculomotor nerve dorsolateral nucleus""]"|dorsolateral oculomotor nucleus
+go_0021725||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||superior raphe nucleus development
+uberon_0015791||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||digit connective tissue
+uberon_0015128||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""perimysial connective tissue of subepicardium"", ""subepicardial connective tissue""]"|subepicardial layer of epicardium
+uberon_0001785||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""cranial nerves"", ""nervus cranialis"", ""cranial neural tree organ""]"|cranial nerve
+uberon_0010683||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""hind limb digit 4 phalanx cartilage condensation"", ""pedal digit IV phalanx cartilage element""]"|pedal digit 4 phalanx cartilage element
+uberon_0011162||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""non-squamous part of supraoccipital bone"", ""supra-occipital cartilage condensation"", ""supraoccipital cartilage condensation""]"|supraoccipital cartilage element
+go_0021554||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""CN II development"", ""cranial nerve 2 development"", ""cranial nerve II development""]"|optic nerve development
+uberon_0005658||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""palatal shelf epithelium""]"|secondary palatal shelf epithelium
+uberon_0004313||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""4th digit of hand distal phalanx"", ""4th finger distal phalanx"", ""distal phalanx of 4th digit of hand"", ""distal phalanx of 4th finger"", ""distal phalanx of fourth digit of hand"", ""distal phalanx of fourth finger"", ""distal phalanx of manual digit IV"", ""distal phalanx of ring finger"", ""fourth distal phalanx of hand"", ""fourth finger distal phalanx"", ""hand digit 4 distal phalanx""]"|distal phalanx of manual digit 4
+uberon_0010347||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""branchial arch 6 mesenchyme from head mesenchyme"", ""head mesenchyme derived arch 6 mesenchyme"", ""pharyngeal arch 6 mesenchyme from head mesenchyme""]"|6th arch mesenchyme from head mesenchyme
+uberon_0010912||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""subdivision of skeleton (in vivo)"", ""skeletal subdivision""]"|subdivision of skeleton
+go_0002608||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""down regulation of myeloid dendritic cell antigen processing and presentation"", ""down-regulation of myeloid dendritic cell antigen processing and presentation"", ""downregulation of myeloid dendritic cell antigen processing and presentation""]"|negative regulation of myeloid dendritic cell antigen processing and presentation
+chebi_35406|"[""CHEBI:33274"", ""CHEBI:33436""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""oxoacid anions"", ""oxoanions"", ""oxoanion""]"|oxoanion
+go_0061296||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""negative regulation of mesenchymal stem cell apoptotic process involved in mesonephric nephron morphogenesis""]"|negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
+go_0050935||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""iridophore cell differentiation""]"|iridophore differentiation
+uberon_0007125||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""fourth pharyngeal pouch"", ""4th arch branchial pouch"", ""4th arch branchial pouch endoderm"", ""4th branchial pouch"", ""4th pharyngeal pouch endoderm"", ""fourth arch pharyngeal pouch"", ""fourth branchial pouch"", ""fourth visceral pouch"", ""pharyngeal pouches 4"", ""visceral pouch 4""]"|pharyngeal pouch 4
+chebi_26214||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""porphyrins""]"|porphyrins
+go_0036345||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||platelet maturation
+uberon_0036285||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""left ventricular wall""]"|wall of left ventricle
+go_0048733||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||sebaceous gland development
+uberon_2001751||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""fifth pleural rib""]"|rib of vertebra 5
+ubprop_0000100||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||is count of
+uberon_0014691||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""pyloric vein"", ""vena gastrica dextra""]"|right gastric vein
+uberon_0008437||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""arcus posterior"", ""posterior arch"", ""arcus posterior atlantis""]"|posterior arch of atlas
+uberon_0003850||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""neural crest telencephalon""]"|telencephalon neural crest
+uberon_0010416||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""lymph node B cell dependent cortex"", ""lymph node B-cell domain"", ""nodular lymph node cortex""]"|lymph node B cell domain
+uberon_2001125||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""Nieuwkoop center""]"|organizer inducing center
+ro_0002321||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||ecologically related to
+uberon_0005619||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""palatal shelves"", ""palatine shelf"", ""lateral palatine process"", ""palatal shelf"", ""secondary palatal shelf""]"|secondary palatal shelf
+uberon_0012168||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""cord blood"", ""fetal blood"", ""umbilical cord blood""]"|umbilical cord blood
+go_1900195||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""up regulation of oocyte maturation"", ""up-regulation of oocyte maturation"", ""upregulation of oocyte maturation""]"|positive regulation of oocyte maturation
+uberon_0000072||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""respiratory tract"", ""subdivision of respiratory tract""]"|proximo-distal subdivision of respiratory tract
+uberon_0035937||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""AF"", ""ARF"", ""arcuate fascicle"", ""arcuate fasciculus"", ""fibrae arcuatae cerebri"", ""arcuate fascicle"", ""cerebral arcuate fasciculus"", ""fasciculus arcuatus""]"|arcuate fasciculus
+uberon_0003153||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||insect head capsule
+go_0060592||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""mammary bud formation"", ""mammary sprout formation""]"|mammary gland formation
+uberon_0005347||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||copula pyramidis
+uberon_3010417||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||posterior palatine artery
+uberon_0022243||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""occipital peduncle"", ""occipital thalamic peduncle"", ""pedunculus ventrocaudalis thalami"", ""posterior peduncle"", ""ventrocaudal thalamic peduncle""]"|posterior thalamic peduncle
+uberon_0006253||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""intraretinal space"", ""intraretinal space of optic cup"", ""intraretinal space of retina"", ""retina intraretinal space""]"|embryonic intraretinal space
+uberon_0016425||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||epiphyseal plate of radius
+uberon_0009899||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||pole of cerebral hemisphere
+uberon_0011104||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""fifth metacarpal bone epiphysis"", ""metacarpal 5 epiphysis""]"|epiphysis of fifth metacarpal bone
+go_0061301||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||cerebellum vasculature morphogenesis
+go_0007431||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||salivary gland development
+uberon_2001877||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||neural arch 1
+go_0002626||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""down regulation of T cell antigen processing and presentation"", ""down-regulation of T cell antigen processing and presentation"", ""downregulation of T cell antigen processing and presentation"", ""negative regulation of T lymphocyte antigen processing and presentation"", ""negative regulation of T-cell antigen processing and presentation"", ""negative regulation of T-lymphocyte antigen processing and presentation""]"|negative regulation of T cell antigen processing and presentation
+go_0030890||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""positive regulation of B lymphocyte proliferation"", ""positive regulation of B-cell proliferation"", ""positive regulation of B-lymphocyte proliferation"", ""up regulation of B cell proliferation"", ""up-regulation of B cell proliferation"", ""upregulation of B cell proliferation""]"|positive regulation of B cell proliferation
+uberon_3000652||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""maxillary saddle""]"|fossa maxillaris
+go_0042475||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""odontogenesis of dentine-containing teeth"", ""odontogenesis of dentine-containing tooth""]"|odontogenesis of dentin-containing tooth
+uberon_0036523||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""vaginal wall""]"|wall of vagina
+uberon_3000678||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""spina oesophagea""]"|esophageal process
+uberon_0003662|"[""UBERON:0005634""]"|uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""arm muscle system"", ""musculature of arm"", ""musculature of the arm"", ""fore limb muscle organ"", ""forelimb muscle organ"", ""free upper limb muscle"", ""muscle of free upper limb"", ""muscle of upper limb"", ""upper limb skeletal muscle""]"|forelimb muscle
+uberon_0014858||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""post-larva"", ""post-larval"", ""post-larval stage"", ""postlarva""]"|crustacean post-larval stage
+go_0021671||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||rhombomere 7 morphogenesis
+uberon_0003430||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""neck (volume) nerve"", ""nerve of neck"", ""nerve of neck (volume)""]"|neck nerve
+go_0043021||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""RNP binding"", ""protein-RNA complex binding"", ""ribonucleoprotein binding""]"|ribonucleoprotein complex binding
+go_0160095||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||insect pharynx development
+uberon_0006049||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""autopod digit 2"", ""digit II"", ""limb digit 2"", ""second digit""]"|digit 2
+uberon_0014697||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||posterior choroidal artery
+uberon_0005659||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl||primary palate epithelium
+uberon_0001529||uberon|UBERON|http://purl.obolibrary.org/obo/uberon.owl|"[""truncus brachiocephalicus"", ""brachiocephalic trunk"", ""innominate artery"", ""truncus brachiocephalicus""]"|brachiocephalic artery

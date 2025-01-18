@@ -2,17 +2,16 @@ from collections import Counter, defaultdict
 import json
 import csv
 from biocypher._logger import logger
-import networkx as nx
 import rdflib
-
+import os
 from biocypher_metta import BaseWriter
+from pathlib import Path
 
 class Neo4jCSVWriter(BaseWriter):
     def __init__(self, schema_config, biocypher_config, output_dir):
         super().__init__(schema_config, biocypher_config, output_dir)
         self.csv_delimiter = '|'
         self.array_delimiter = ';'
-
         self.create_edge_types()
 
         self.excluded_properties = []
@@ -32,35 +31,28 @@ class Neo4jCSVWriter(BaseWriter):
                 source_type = v.get("source", None)
                 target_type = v.get("target", None)
 
-                if source_type is not None and target_type is not None:
-                    if isinstance(v["input_label"], list):
-                        label = self.convert_input_labels(v["input_label"][0])
-                        source_type = self.convert_input_labels(source_type[0])
-                        target_type = self.convert_input_labels(target_type[0])
-                    else:
-                        label = self.convert_input_labels(v["input_label"])
-                        source_type = self.convert_input_labels(source_type)
-                        target_type = self.convert_input_labels(target_type)
+                if source_type and target_type:
+                    label = self.convert_input_labels(v["input_label"] if isinstance(v["input_label"], str) else v["input_label"][0])
+                    source_type = self.convert_input_labels(source_type[0] if isinstance(source_type, list) else source_type)
+                    target_type = self.convert_input_labels(target_type[0] if isinstance(target_type, list) else target_type)
                     output_label = v.get("output_label", None)
 
                     self.edge_node_types[label.lower()] = {
                         "source": source_type.lower(),
                         "target": target_type.lower(),
-                        "output_label": (
-                            output_label.lower() if output_label is not None else None
-                        ),
+                        "output_label": output_label.lower() if output_label else None
                     }
-    
+
     def preprocess_value(self, value):
         value_type = type(value)
         
-        if value_type is list:
+        if isinstance(value, list):
             return json.dumps([self.preprocess_value(item) for item in value])
         
-        if value_type is rdflib.term.Literal:
+        if isinstance(value, rdflib.term.Literal):
             return str(value).translate(self.translation_table)
         
-        if value_type is str:
+        if isinstance(value, str):
             return value.translate(self.translation_table)
         
         return value
@@ -71,14 +63,13 @@ class Neo4jCSVWriter(BaseWriter):
 
     def preprocess_id(self, prev_id):
         replace_map = str.maketrans({' ': '_', ':':'_'})
-        id = prev_id.lower().strip().translate(replace_map)
-        return id
+        return prev_id.lower().strip().translate(replace_map)
     
-    def write_chunk(self, chunk, headers, file_path, csv_delimiter, preprocess_value):
+    def write_chunk(self, chunk, headers, file_path, csv_delimiter):
         with open(file_path, 'a', newline='') as csvfile:
             writer = csv.writer(csvfile, delimiter=csv_delimiter)
             for row in chunk:
-                processed_row = [preprocess_value(row.get(header, '')) for header in headers]
+                processed_row = [self.preprocess_value(row.get(header, '')) for header in headers]
                 writer.writerow(processed_row)
             csvfile.flush()
 
@@ -96,24 +87,20 @@ class Neo4jCSVWriter(BaseWriter):
             writer = csv.writer(csvfile, delimiter=self.csv_delimiter)
             writer.writerow(headers)
             csvfile.flush() 
-    
+
+        # Writing data in chunks to reduce memory usage
         for i in range(0, len(data), chunk_size):
             chunk = data[i:i+chunk_size]
-            self.write_chunk(chunk, headers, file_path, self.csv_delimiter, self.preprocess_value)
+            self.write_chunk(chunk, headers, file_path, self.csv_delimiter)
 
     def write_nodes(self, nodes, path_prefix=None, adapter_name=None):
-        if path_prefix:
-            output_dir = self.output_path / path_prefix
-        elif adapter_name:
-            output_dir = self.output_path / adapter_name
-        else:
-            output_dir = self.output_path
-
+        output_dir = self.output_path / (path_prefix or adapter_name or "")
         output_dir.mkdir(parents=True, exist_ok=True)
 
-        node_groups = {}
+        node_groups = defaultdict(list)
         node_freq = Counter()
         node_props = defaultdict(set)
+
         for node in nodes:
             id, label, properties = node
             if "." in label:
@@ -121,11 +108,7 @@ class Neo4jCSVWriter(BaseWriter):
             label = label.lower()
             node_freq[label] += 1
             node_props[label] = node_props[label].union(properties.keys())
-                 
-            if label not in node_groups:
-                node_groups[label] = []
-            id = self.preprocess_id(id)
-            node_groups[label].append({'id': id, 'label': label, **properties})
+            node_groups[label].append({'id': self.preprocess_id(id), 'label': label, **properties})
 
         # Write node data to CSV and generate Cypher queries
         for label, node_data in node_groups.items():
@@ -154,13 +137,7 @@ RETURN batches, total;
         return node_freq, node_props
 
     def write_edges(self, edges, path_prefix=None, adapter_name=None):
-        if path_prefix:
-            output_dir = self.output_path / path_prefix
-        elif adapter_name:
-            output_dir = self.output_path / adapter_name
-        else:
-            output_dir = self.output_path
-
+        output_dir = self.output_path / (path_prefix or adapter_name or "")
         output_dir.mkdir(parents=True, exist_ok=True)
 
         edge_groups = defaultdict(list)
@@ -190,6 +167,7 @@ RETURN batches, total;
                 **properties
             })
 
+        # Write edges data in chunks
         for (label, source_type, target_type), edge_data in edge_groups.items():
             file_suffix = f"{label}_{source_type}_{target_type}".lower()
             csv_file_path = output_dir / f"edges_{file_suffix}.csv"
@@ -210,9 +188,8 @@ RETURN batches, total;
     )
     YIELD batches, total
     RETURN batches, total;
-            """
+                """
                 f.write(cypher_query)
 
         logger.info(f"Finished writing out all edge import queries for: {output_dir}")
         return edges_freq
-    

@@ -1,0 +1,102 @@
+id|alternative_ids|label|source|source_url|synonyms|term_name
+doid_0050907||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0030935||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""MC2DN2"", ""mitochondrial complex 2 deficiency, nuclear type 2"", ""mitochondrial complex II deficiency, nuclear type 2""]"|mitochondrial complex 2 deficiency, nuclear type 2
+10912||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+doid_10873||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c123158||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c1857574||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_1000580||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""thymic undifferentiated carcinoma""]"|Thymic Undifferentiated Carcinoma
+mondo_0011738||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""BFPP"", ""cerebellar ataxia with neuronal migration defect"", ""polymicrogyria, bilateral frontoparietal"", ""bilateral frontoparietal polymicrogyria""]"|bilateral frontoparietal polymicrogyria
+doid_2722||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0002893||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""chorioblastoma"", ""choriocarcinoma"", ""choriocarcinoma (disease)"", ""choriocarcinoma, malignant"", ""chorioepithelioma"", ""chorion carcinoma"", ""chorionic carcinoma""]"|choriocarcinoma
+mondo_0011346||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""type 2 xanthinuria"", ""type II xanthinuria"", ""xanthine dehydrogenase and aldehyde oxidase combined deficiency of"", ""xanthinuria type 2"", ""xanthinuria, type 2"", ""xanthinuria, type II"", ""XAN2"", ""XDH and AOX dual deficiency"", ""xanthine dehydrogenase and aldehyde oxidase, combined deficiency of"", ""xanthine dehydrogenase and xanthine aldehyde oxidase dual deficiency""]"|xanthinuria type II
+ncit_c26768||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c34571||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c35480||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0801648||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||glycosyltransferase 8 domain-containing protein 1 measurement
+322257||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+65942||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0021233||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""Ear neoplasms"", ""Ear tumor"", ""Ear tumour"", ""ear neoplasm (disease)"", ""ear tumor"", ""ear tumour"", ""neoplasm of Ear"", ""neoplasm of ear"", ""neoplasm of the Ear"", ""tumor of Ear"", ""tumor of ear"", ""tumor of the Ear"", ""tumour of Ear"", ""tumour of ear"", ""tumour of the Ear""]"|ear neoplasm
+efo_0006569||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||EFM-192B
+pr_000008464||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||hemoglobin subunit theta-1
+237181||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+doid_0111621||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0008408||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||susceptibility to strep throat measurement
+oba_2041913||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""blood serum homer protein homolog 2 amount""]"|level of homer protein homolog 2 in blood serum
+mondo_0007056||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""acroosteolysis""]"|acroosteolysis
+1920227791||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c0878677||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0006302||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||Swiss8
+mondo_0007666||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""glaucoma and sleep apnea"", ""glaucoma sleep apnea""]"|glaucoma-sleep apnea syndrome
+236690||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+oba_2040456||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""blood serum L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase amount""]"|level of L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase in blood serum
+oba_2042962||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""blood serum DNA polymerase epsilon subunit 3 amount""]"|level of DNA polymerase epsilon subunit 3 in blood serum
+c537205||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+go_0004345||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""6-phosphoglucose dehydrogenas"", ""D-glucose-6-phosphate:NADP+ 1-oxidoreductase activity"", ""Entner-doudoroff enzyme"", ""G6PD activity"", ""GDH"", ""Zwischenferment"", ""6-phosphoglucose dehydrogenase activity"", ""D-glucose 6-phosphate dehydrogenase activity"", ""G6PDH"", ""NADP-dependent glucose 6-phosphate dehydrogenase activity"", ""NADP-glucose-6-phosphate dehydrogenase activity"", ""glucose 6-phosphate dehydrogenase (NADP) activity"", ""glucose-6-phosphate 1-dehydrogenase activity""]"|glucose-6-phosphate dehydrogenase activity
+mondo_0016711||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""Desmoplastic medulloblastoma"", ""desmoplastic medulloblastoma"", ""desmoplastic nodular medulloblastoma"", ""desmoplastic/nodular medulloblastoma""]"|desmoplastic/nodular medulloblastoma
+10004941||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+d001661||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c1332563||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c567065||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+184705||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+chebi_15595|"[""CHEBI:14556"", ""CHEBI:25114""]"|efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""hydroxybutanedioic acid, ion(2-)"", ""mal"", ""malate"", ""malate anion"", ""malate dianion"", ""2-hydroxybutanedioate""]"|malate(2-)
+efo_0001137||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||GM12145
+c4707898||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+pr_000013604||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||Ras-related protein Rab-2B
+610489||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+307249||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c5543287||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+uberon_0004454|"[""UBERON:0002388""]"|efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""articulatio talocruralis"", ""hind basipodium"", ""hind mesopodium"", ""hock"", ""ankle"", ""ankle region"", ""tarsal limb segment""]"|tarsal region
+420472577||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+doid_12084||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0001101||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||CC531
+efo_0700005||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||Abseq
+efo_0020183||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||BMP-binding endothelial regulator protein measurement
+oba_2050763||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""blood translation initiation factor IF-3, mitochondrial amount""]"|level of translation initiation factor IF-3, mitochondrial in blood
+266120||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+722463001||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c4750772||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0005027||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0018528||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""congenital myopathy with myasthenic-like onset""]"|congenital myopathy with myasthenic-like onset
+387884||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+chebi_87738|"[""CHEBI:45816""]"|efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""(-)-warfarin"", ""(S)-(-)-warfarin"", ""(S)-4-hydroxy-3-(3-oxo-1-phenylbutyl)-2-benzopyrone"", ""(S)-4-hydroxy-3-(3-oxo-1-phenylbutyl)-2H-chromen-2-one"", ""4-hydroxy-3-[(1S)-3-oxo-1-phenylbutyl]-2H-chromen-2-one"", ""S-warfarin"", ""levrowarfarin"", ""4-hydroxy-3-[(1S)-3-oxo-1-phenylbutyl]-2H-1-benzopyran-2-one""]"|(S)-warfarin
+efo_0802435||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||cullin-3 measurement
+ncit_c98647||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+83630||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+oba_2043298||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""blood serum E3 ubiquitin-protein ligase RNF34 amount""]"|level of E3 ubiquitin-protein ligase RNF34 in blood serum
+go_0004370||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""ATP:glycerol 3-phosphotransferase activity"", ""ATP:glycerol-3-phosphotransferase activity"", ""GK"", ""glyceric kinase activity"", ""glycerokinase activity"", ""glycerol kinase (phosphorylating)""]"|glycerol kinase activity
+1415005||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0700266||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||paraneoplastic cutaneous syndrome
+436367||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c3242||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+109965004||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+263570||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+374340||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0003887||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""mucinous adenofibroma of ovary"", ""ovarian mucinous adenofibroma"", ""ovary mucinous adenofibroma""]"|ovarian mucinous adenofibroma
+efo_0020966||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||free sitosterol measurement
+hp_0008110||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||Equinovarus deformity
+166220||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c35055||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+116022||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+640840||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+c536625||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+orphanet_98602||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||Rare lacrimal system disease
+78681||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+doid_0070097||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+893358230||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+614800||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+584112926||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+618092||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+ncit_c5700||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0014822||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""chromosome 15q14 deletion syndrome"", ""Del(15)(q14)"", ""monosomy 15q14""]"|15q14 microdeletion syndrome
+518257495||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+orphanet_93338||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""PPD4"", ""Preaxial polydactyly type 4""]"|Polysyndactyly
+d014657||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+5132005||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+934692||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+mondo_0013247||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""FRTS2"", ""Fanconi renotubular syndrome 2"", ""Fanconi renotubular syndrome type 2"", ""Fanconi syndrome caused by mutation in SLC34A1"", ""SLC34A1 Fanconi syndrome""]"|Fanconi renotubular syndrome 2
+doid_0111783||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+efo_0005846||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl|"[""Cryoimmunoglobulinaemia"", ""cryoglobulin-related vasculitis"", ""cryoglobulinemia""]"|cryoglobulinemia
+doid_10481||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+611881||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||
+999231798||efo|Experimental Factor Ontology|http://www.ebi.ac.uk/efo/efo.owl||

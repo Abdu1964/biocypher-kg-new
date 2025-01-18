@@ -1,0 +1,101 @@
+id|alternative_ids|label|source|source_url|synonyms|term_name
+go_0060187||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||cell pole
+go_0048471||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||perinuclear region of cytoplasm
+go_0045283||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||fumarate reductase complex
+go_0005669||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||transcription factor TFIID complex
+go_0061574||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||ASAP complex
+go_0000500||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""RNA polymerase I upstream activation factor complex"", ""UAF""]"|RNA polymerase I upstream activating factor complex
+go_0031934||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||mating-type region heterochromatin
+go_0032280||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""Grays type II synapse""]"|symmetric synapse
+go_0042405||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||nuclear inclusion body
+go_0071742||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||IgE immunoglobulin complex
+go_0000940|"[""GO:0000942""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""condensed chromosome outer kinetochore"", ""condensed nuclear chromosome outer kinetochore"", ""outer kinetochore of condensed chromosome"", ""outer kinetochore of condensed nuclear chromosome""]"|outer kinetochore
+go_0009521|"[""GO:0030090""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||photosystem
+go_0070850||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||TACC/TOG complex
+go_0070111||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""Paulinella-type chromatophore""]"|organellar chromatophore
+go_0000417||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""HIRA complex""]"|HIR complex
+go_0071189||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||protocadherin-alpha-v7-protocadherin-gamma-a3 complex
+go_0071202||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""Kv4.3-DPPY channel complex""]"|Kv4.3-DPP10 channel complex
+go_0035632||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""mitochondrial inner membrane prohibitin complex""]"|mitochondrial prohibitin complex
+go_0097225||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||sperm midpiece
+go_0043675||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||sculpture element
+go_0000439|"[""GO:0000441""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""SSL2-core TFIIH complex"", ""core TFIIH complex""]"|transcription factor TFIIH core complex
+go_0099501||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||exocytic vesicle membrane
+go_0030256||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||type I protein secretion system complex
+go_1990062||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""R2TP/prefoldin-like complex""]"|RPAP3/R2TP/prefoldin-like complex
+go_0097591||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""ventral disk lateral crest""]"|ventral disc lateral crest
+go_0005951||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""carbamoyl phosphate synthase complex""]"|carbamoyl-phosphate synthase complex
+go_0008305||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""laminin receptor protein""]"|integrin complex
+go_0061800||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||fibronectin fibril
+go_0043025||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""neuron cell body"", ""neuronal cell soma""]"|neuronal cell body
+go_0045275|"[""GO:0032842"", ""GO:0045285""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""CoQH2-cytochrome c reductase complex"", ""coenzyme Q-cytochrome c oxidoreductase complex"", ""coenzyme Q-cytochrome c reductase complex"", ""electron transport complex III"", ""complex III"", ""cytochrome bc(1) complex"", ""cytochrome bc1 complex"", ""ubiquinol-cytochrome c oxidoreductase complex"", ""ubiquinol-cytochrome-c reductase complex""]"|respiratory chain complex III
+go_0035840||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""old growing cell end""]"|old growing cell tip
+go_0034745||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||APC-IQGAP1-Rac1 complex
+go_0106083||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||nuclear membrane protein complex
+go_0160172||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||T=31/pseudo31 icosahedral capsid
+go_0090651||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||apical cytoplasm
+go_0150086||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""multi-synapse"", ""multiple synapse"", ""multisynapse"", ""MSB"", ""multi-synapse bouton"", ""multi-synaptic bouton"", ""multiple spine synapse bouton"", ""multiple-synapse bouton"", ""multisynapse bouton"", ""multisynaptic bouton""]"|multiple synapse bouton
+go_1990011||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""laminated inclusion body""]"|laminated body
+go_0097538||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""cilial necklace"", ""cilium necklace""]"|ciliary necklace
+go_0032390||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""MLH1/PMS1 complex""]"|MutLbeta complex
+go_0048353||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||primary endosperm nucleus
+go_0009340||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||DNA topoisomerase IV complex
+go_0005575|"[""GO:0008372""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""subcellular entity"", ""cell or subcellular entity"", ""cellular component""]"|cellular_component
+go_0000127||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||transcription factor TFIIIC complex
+go_0170014||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""ankyrin complex"", ""erythrocyte ankyrin-1 complex""]"|ankyrin-1 complex
+go_0042603|"[""GO:0030113"", ""GO:0042604""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||capsule
+go_0042720||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""mitochondrion inner membrane peptidase complex""]"|mitochondrial inner membrane peptidase complex
+go_0035452||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""peripheral to plastid membrane""]"|extrinsic component of plastid membrane
+go_0001535||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""radial spokehead""]"|radial spoke head
+go_0000811||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""Go, Ichi, Ni and San complex""]"|GINS complex
+go_0160112||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||axonemal B tubule inner sheath
+go_0020030||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||infected host cell surface knob
+go_0046691||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""canalicular membrane""]"|intracellular canaliculus
+go_0044731||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""(Ost)2 complex"", ""Ost alpha-Ost beta complex"", ""SLC51 complex""]"|Ost-alpha/Ost-beta complex
+go_0071749||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""pIgA antibody"", ""polymeric IgA antibody""]"|polymeric IgA immunoglobulin complex
+go_0034456||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""Rrp7p-containing subcomplex of 90S preribosome""]"|UTP-C complex
+go_0071002||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||U4atac/U6atac snRNP
+go_0002141||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||stereocilia ankle link
+go_0110078||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""TELO2-TTI1-TTI2"", ""TTT complex"", ""Tel2-Tti1-Tti2"", ""Triple T complex""]"|TTT Hsp90 cochaperone complex
+go_0044732||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||mitotic spindle pole body
+go_0106173||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||COPII-coated vesicle lumen
+go_1990100||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||DnaB-DnaC complex
+go_0032996||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||Bcl3-Bcl10 complex
+go_0106333||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""SCMC""]"|subcortical maternal complex
+go_0120337||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""radial spokehead 2""]"|radial spoke head 2
+go_0032010||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""late phagocytic vesicle"", ""late phagosome""]"|phagolysosome
+go_0070083||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""clathrin sculpted monoamine constitutive secretory pathway transport vesicle membrane"", ""clathrin sculpted monoamine transport vesicle membrane""]"|clathrin-sculpted monoamine transport vesicle membrane
+go_0033651||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||host cell plastid
+go_0097478||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""membrane leaflet""]"|leaflet of membrane bilayer
+go_0042406||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""extrinsic to ER membrane""]"|extrinsic component of endoplasmic reticulum membrane
+go_0001534||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||radial spoke
+go_0044203||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||host cell nuclear lamina
+go_0090733||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||tenascin complex
+go_0009279||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""outer membrane of cell""]"|cell outer membrane
+go_0043667||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""microspore wall""]"|pollen wall
+go_0031595||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||nuclear proteasome complex
+go_0008023||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||transcription elongation factor complex
+go_0098536||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||deuterosome
+go_0031097||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""medial ring""]"|medial cortex
+go_0005952||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""PKA"", ""3,5 cAMP-dependent protein kinase complex"", ""3,5-cAMP-dependent protein kinase complex"", ""adenosine 3,5-cyclophosphate-dependent protein kinase complex"", ""cyclic AMP-dependent protein kinase complex""]"|cAMP-dependent protein kinase complex
+go_0098878||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||neurotransmitter receptor complex
+go_0160113||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||axonemal microtubule doublet inner junction
+go_0031499||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||TRAMP complex
+go_0120220||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""centriolar patch""]"|basal body patch
+go_0098685||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||Schaffer collateral - CA1 synapse
+go_0120280||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""flagellar pro-basal body"", ""flagellar probasal body""]"|ciliary pro-basal body
+go_0016473||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""sodium-translocating F-type ATPase complex""]"|sodium ion-transporting F-type ATPase complex
+go_0030677||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""RNase P complex""]"|ribonuclease P complex
+go_0044171||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""host smooth endoplasmic reticulum membrane""]"|host cell smooth endoplasmic reticulum membrane
+go_0120101||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""bacterial-type flagellum motor force generator complex"", ""bacterial-type flagellum torque generator complex""]"|bacterial-type flagellum stator complex
+go_0030135|"[""GO:0005909""]"|cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||coated vesicle
+go_0097123||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||cyclin A1-CDK2 complex
+go_0009420||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""flagellar filament"", ""flagellin-based flagellum filament""]"|bacterial-type flagellum filament
+go_0044354||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||macropinosome
+go_0160211||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||apicoplast membrane
+go_0071741||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""GPI-anchored IgD""]"|IgD immunoglobulin complex, GPI-anchored
+go_0033064||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""DX2 complex""]"|XRCC2-RAD51D complex
+go_0071546||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""intermitochondrial cement""]"|pi-body
+go_0031981||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||nuclear lumen
+go_0043655||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl|"[""extracellular space of host""]"|host extracellular space
+go_0044099||cellular_component|Gene Ontology|http://purl.obolibrary.org/obo/go.owl||polar tube

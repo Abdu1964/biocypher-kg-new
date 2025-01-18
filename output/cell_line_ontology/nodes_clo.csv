@@ -1,0 +1,102 @@
+id|alternative_ids|label|source|source_url|synonyms|term_name
+clo_0025961||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM11260 cell
+clo_0051126||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||HSC0104 cell
+clo_0009949||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||OSC-19 cell
+clo_0006153||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||IGF100/84 cell
+clo_0019103||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM12137 cell
+clo_0032946||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM13563 cell
+clo_0027431||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM19374 cell
+clo_0037238||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||HEK293-T-REx cell
+clo_0002359||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||CER cell
+clo_0022696||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG12952 cell
+clo_0018027||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM17013 cell
+clo_0009637||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||WU E-14 cell
+clo_0020535||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND08191 cell
+clo_0033691||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG08138 cell
+clo_0025158||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM00090 cell
+clo_0003133||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||FH 147 cell
+go_0016445||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl|"[""somatic diversification of antibodies""]"|somatic diversification of immunoglobulins
+clo_0003093||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||FGC4 cell
+go_0097530||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||granulocyte migration
+clo_0027500||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM15199 cell
+clo_0029021||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM20757 cell
+clo_0018045||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM16972 cell
+clo_0027247||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA04554 cell
+go_0044085|"[""GO:0071843""]"|clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl|"[""cellular component biogenesis at cellular level""]"|cellular component biogenesis
+clo_0010772||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA05123 cell
+clo_0031240||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG08899 cell
+clo_0031819||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM02109 cell
+clo_0030953||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM01671 cell
+clo_0005368||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||IGF046/99 cell
+clo_0009738||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||dTA4-1 cell
+clo_0034884||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG04662 cell
+clo_0026379||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM09731 cell
+clo_0022693||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG12947 cell
+clo_0023933||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM05895 cell
+clo_0001598||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||A5.12.14 cell
+clo_0021225||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM11576 cell
+clo_0003853||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||Hs 143.We cell
+clo_0014344||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM17232 cell
+clo_0025790||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM19075 cell
+clo_0029627||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA03978 cell
+clo_0025981||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM11272 cell
+clo_0001065||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||12A5B7 cell
+clo_0027787||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND05369 cell
+clo_0020047||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM11886 cell
+clo_0025174||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM00044 cell
+clo_0037097||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||OVISE cell
+clo_0029573||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM20395 cell
+clo_0028556||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||HQ00912 cell
+clo_0029089||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM10338 cell
+clo_0014641||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM17045 cell
+clo_0008014||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||NCI-H1703 cell
+clo_0025675||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM05004 cell
+clo_0027583||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND00507 cell
+uberon_0034707||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||differentiating neuroepithelium
+uberon_0000009||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl|"[""submucous layer"", ""tela submucosa"", ""tunica submucosa"", ""organ submucosa"", ""region of submucosa"", ""submucosa of organ"", ""submucosa of region of organ""]"|submucosa
+uberon_0003080||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||anterior neural tube
+clo_0017616||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND11574 cell
+clo_0021926||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG09945 cell
+uberon_0005420||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||
+clo_0021958||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG09710 cell
+clo_0004718||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||IGF017/76 cell
+181762005||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||
+clo_0011290||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG21156 cell
+clo_0013902||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND08781 cell
+clo_0025329||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA01047 cell
+clo_0027171||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM19257 cell
+uberon_0004454||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||
+clo_0010765||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||HQ00642 cell
+clo_0023396||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM10904 cell
+clo_0020337||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND11200 cell
+clo_0016552||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA02094 cell
+clo_0014474||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND09199 cell
+clo_0009910||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||HCC3153 cell
+uberon_0004199||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl|"[""SSB"", ""stage II nephron""]"|S-shaped body
+clo_0011357||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AU10080 cell
+clo_0030437||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND00167 cell
+clo_0010990||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AU10138 cell
+clo_0004121||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||Hs 793.T cell
+clo_0000610||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||immortal chicken embryo-derived cell line cell
+clo_0034307||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND04297 cell
+clo_0015827||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA02899 cell
+clo_0012926||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM17466 cell
+uberon_0008947||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||respiratory primordium
+clo_0034264||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM14229 cell
+clo_0018233||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM04829 cell
+clo_0028668||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND06057 cell
+clo_0005322||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||IGF044/98 cell
+clo_0011820||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG17902 cell
+clo_0034352||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AG08524 cell
+clo_0020531||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND08187 cell
+uberon_0000468||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl|"[""Koerper"", ""body"", ""whole body"", ""whole organism"", ""multi-cellular organism""]"|multicellular organism
+clo_0031786||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM02185 cell
+clo_0018993||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND11250 cell
+clo_0000128||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||immortal animal cell line cell
+clo_0030789||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND14149 cell
+clo_0020555||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||ND08241 cell
+clo_0013154||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DA03303 cell
+clo_0050268||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||RCB0426 cell
+clo_0012644||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||GM13425 cell
+clo_0011018||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||AU10169 cell
+clo_0002733||clo|Cell Line Ontology|http://purl.obolibrary.org/obo/clo.owl||DDC95 cell
