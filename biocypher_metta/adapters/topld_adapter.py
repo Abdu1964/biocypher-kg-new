@@ -31,6 +31,7 @@ from biocypher._logger import logger
         #self.source = "TopLD"
         #self.source_url = "http://topld.genetics.unc.edu/"
         #super(TopLDAdapter, self).__init__(write_properties, add_provenance)
+#Set default None for `chr` parameter in TopLDAdapter
 class TopLDAdapter(Adapter):
     INDEX = {'SNP1': 0, 'SNP2': 1, 'R2': 4, 'Dprime': 5, '+/-corr': 6}
 
