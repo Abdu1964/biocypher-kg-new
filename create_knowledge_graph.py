@@ -164,9 +164,9 @@ def process_adapters(adapters_dict, dbsnp_rsids_dict, dbsnp_pos_dict, writer, wr
             freq = writer.write_edges(edges, path_prefix=outdir)
             for edge_label in freq:
                 edges_count[edge_label] += freq[edge_label]
-                #line causing the error below
-                ##label = schema_dict[edge_label]['output_label'] or edge_label
-                #replaced with the below  1 line
+                #line causing the error below !
+                ##label = schema_dict[edge_label]['output_label'] or edge_label 
+                #replaced with the below  line
                 label = schema_dict.get(edge_label.lower(), {}).get('output_label', edge_label)
  
                 if dataset_name is not None:
