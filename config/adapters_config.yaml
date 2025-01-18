@@ -275,7 +275,7 @@ gaf_cellular_component_gene_product_located_in:
   nodes: False
   edges: True
 
-
+#coexpression  duplication removal
 #coexpression:
  # adapter:
   #  module: biocypher_metta.adapters.coxpresdb_adapter
@@ -572,7 +572,7 @@ rna_central_non_coding_rna:
   outdir: rna_central
   nodes: True
   edges: False
-
+##link 1
 rna_central_non_coding_rna_biological_process:
   adapter:
     module: biocypher_metta.adapters.rna_central_adapter
@@ -586,7 +586,7 @@ rna_central_non_coding_rna_biological_process:
   outdir: rna_central
   nodes: False
   edges: True  
-
+##link2
 rna_central_non_coding_rna_molecular_function:
   adapter:
     module: biocypher_metta.adapters.rna_central_adapter
@@ -601,7 +601,7 @@ rna_central_non_coding_rna_molecular_function:
   outdir: rna_central
   nodes: False
   edges: True  
-
+##link3
 rna_central_non_coding_rna_cellular_component:
   adapter:
     module: biocypher_metta.adapters.rna_central_adapter
