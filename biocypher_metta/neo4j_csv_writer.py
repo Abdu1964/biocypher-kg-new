@@ -66,7 +66,7 @@ class Neo4jCSVWriter(BaseWriter):
         return value
 
     def convert_input_labels(self, label):
-        return label.lower().replace(" ", "_")
+        return str(label).lower().replace(" ", "_")
 
     def preprocess_id(self, prev_id):
         replace_map = str.maketrans({' ': '_', ':':'_'})

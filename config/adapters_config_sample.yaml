@@ -215,6 +215,21 @@ go_cellular_component:
   nodes: True
   edges: False
 
+
+
+tflink:     
+    adapter:
+        module: biocypher_metta.adapters.tflink_adapter
+        cls: TFLinkAdapter
+        args:
+          filepath: ./samples/tflink_homo_sapiens_interactions.tsv.gz
+          entrez_to_ensemble_map: ./aux_files/entrez_to_ensembl.pkl
+          
+    outdir: tflink
+    nodes: False
+    edges: True
+
+
 go_cellular_component_subclass_of:
   adapter:
     module: biocypher_metta.adapters.gene_ontology_adapter
@@ -877,7 +892,7 @@ bto_subclass_of:
 
 human_phenotype_ontology:
   adapter:
-    module: biocypher_metta.adapters.human_phenotype_ontology_adapter
+    module: biocypher_metta.adapters.hsa.human_phenotype_ontology_adapter
     cls: HumanPhenotypeOntologyAdapter
     args:
       ontology: 'hpo'
@@ -891,7 +906,7 @@ human_phenotype_ontology:
 
 hpo_subclass_of:
   adapter:
-    module: biocypher_metta.adapters.human_phenotype_ontology_adapter
+    module: biocypher_metta.adapters.hsa.human_phenotype_ontology_adapter
     cls: HumanPhenotypeOntologyAdapter
     args:
       ontology: 'hpo'
@@ -979,5 +994,49 @@ snp_to_in_gene:
       filepath: ./samples/gwas-catalog_sample.tsv
       label: snp_in_gene
   outdir: gwas/ingene
+  nodes: False
+  edges: True
+
+promoter_ccre:
+  adapter:
+    module: biocypher_metta.adapters.candidate_cis_regulatory_elements_adapter
+    cls: EncodecCREAdapter
+    args:
+      filepath: ./samples/cCRE/cCRE-PLS-gene.bed.gz
+      label: promoter
+  outdir: ccre/promoter_ccre
+  nodes: True
+  edges: False
+
+promoter_ccre_associates_with_gene:
+  adapter:
+    module: biocypher_metta.adapters.candidate_cis_regulatory_elements_adapter
+    cls: EncodecCREAdapter
+    args:
+      filepath: ./samples/cCRE/cCRE-PLS-gene.bed.gz
+      label: promoter_gene
+  outdir: ccre/promoter_ccre
+  nodes: False
+  edges: True
+
+enhancer_ccre:
+  adapter:
+    module: biocypher_metta.adapters.candidate_cis_regulatory_elements_adapter
+    cls: EncodecCREAdapter
+    args:
+      filepath: ./samples/cCRE/cCRE-ELS-gene.bed.gz
+      label: enhancer
+  outdir: ccre/enhancer_ccre
+  nodes: True
+  edges: False
+
+enhancer_ccre_associates_with_gene:
+  adapter:
+    module: biocypher_metta.adapters.candidate_cis_regulatory_elements_adapter
+    cls: EncodecCREAdapter
+    args:
+      filepath: ./samples/cCRE/cCRE-ELS-gene.bed.gz
+      label: enhancer_gene
+  outdir: ccre/enhancer_ccre
   nodes: False
   edges: True
