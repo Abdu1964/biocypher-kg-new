@@ -183,12 +183,16 @@ class MeTTaWriter(BaseWriter):
 
     def convert_input_labels(self, label, replace_char="_"):
         """
-        A method that removes spaces in input labels and replaces them with replace_char
-        :param label: Input label of a node or edge
+        Convert input labels to a format suitable for Neo4j.
+        
+        :param label: the label to convert (string or list)
         :param replace_char: the character to replace spaces with
-        :return:
+        :return: converted label string
         """
-        return label.replace(" ", replace_char)
+        if isinstance(label, list):
+            # Join list elements with underscores if it's a list
+            label = '_'.join(label)
+        return str(label).replace(" ", replace_char)
 
     def get_parent(self, G, node):
         """

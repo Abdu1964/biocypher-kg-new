@@ -173,8 +173,8 @@ vev_wsl/
 ontology_dataset_cache_*/
 output_cli/
 output_dmel/
-dmel/
 aux_files/
 config/
 venv_wsl/
-
+output_human/
+output_fly/

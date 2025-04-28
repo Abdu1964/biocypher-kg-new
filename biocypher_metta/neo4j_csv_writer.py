@@ -70,7 +70,10 @@ class Neo4jCSVWriter(BaseWriter):
 
     def preprocess_id(self, prev_id):
         replace_map = str.maketrans({' ': '_', ':':'_'})
-        return prev_id.lower().strip().translate(replace_map)
+        # If input is a tuple, take the second element (assuming ID is in position 1)
+        if isinstance(prev_id, tuple):
+            prev_id = prev_id[1]        
+        return str(prev_id).lower().strip().translate(replace_map)
 
     def _write_buffer_to_temp(self, label_or_key, buffer):
         if buffer and label_or_key in self._temp_files:

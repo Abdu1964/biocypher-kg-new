@@ -9,35 +9,34 @@ from biocypher_metta import BaseWriter
 
 class PrologWriter(BaseWriter):
 
-    def __init__(self, schema_config, biocypher_config,
-                 output_dir):
+    def __init__(self, schema_config, biocypher_config, output_dir):
         super().__init__(schema_config, biocypher_config, output_dir)
-        self.create_edge_types()
-        #self.excluded_properties = ["license", "version", "source"]
+        self.create_edge_types(self._schema)  # Pass the schema from parent class
         self.excluded_properties = []
 
 
-    def create_edge_types(self):
-        schema = self.bcy._get_ontology_mapping()._extend_schema()
+    def create_edge_types(self, schema):
+        """
+        Create edge types from schema.
+        """
         self.edge_node_types = {}
-
         for k, v in schema.items():
-            if v["represented_as"] == "edge":
-                source_type = v.get("source", None)
-                target_type = v.get("target", None)
-                # ## TODO fix this in the scheme config
-                if source_type is not None and target_type is not None:
-                    if isinstance(v["input_label"], list):
-                        label = self.sanitize_text(v["input_label"][0])
-                        source_type = self.sanitize_text(v["source"][0])
-                        target_type = self.sanitize_text(v["target"][0])
-                    else:
-                        label = self.sanitize_text(v["input_label"])
-                        source_type = self.sanitize_text(v["source"])
-                        target_type = self.sanitize_text(v["target"])
-                    output_label = v.get("output_label", None)
-                    self.edge_node_types[label.lower()] = {"source": source_type.lower(), "target": target_type.lower(),
-                                                           "output_label": output_label.lower() if output_label is not None else None}
+            if v.get("represented_as") == "edge":
+                label = v.get("input_label", k)
+                if isinstance(v["source"], list):
+                    # Handle list of source types by joining with underscore
+                    source_type = "_".join(self.sanitize_text(s) for s in v["source"])
+                else:
+                    source_type = self.sanitize_text(v["source"])
+                    
+                target_type = self.sanitize_text(v["target"])
+                output_label = v.get("output_label", None)
+                
+                self.edge_node_types[label.lower()] = {
+                    "source": source_type.lower(),
+                    "target": target_type.lower(),
+                    "output_label": output_label.lower() if output_label else None
+                }
 
     def write_nodes(self, nodes, path_prefix=None, create_dir=True):
         if path_prefix is not None:

@@ -1,0 +1,24 @@
+[33mb6bb236[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~2
+[33mc4a152a[m HEAD@{1}: checkout: moving from staging to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{2}: checkout: moving from main to staging
+[33mc4a152a[m HEAD@{3}: checkout: moving from staging to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{4}: checkout: moving from main to staging
+[33mc4a152a[m HEAD@{5}: commit: gitignore
+[33me9f35df[m HEAD@{6}: checkout: moving from staging to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{7}: checkout: moving from main to staging
+[33me9f35df[m HEAD@{8}: commit: Saving local changes before switching to staging
+[33mb6bb236[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{9}: reset: moving to origin/main
+[33mfa6244a[m HEAD@{10}: reset: moving to HEAD
+[33mfa6244a[m HEAD@{11}: commit: Resolved merge conflicts
+[33mf885c63[m[33m ([m[1;31mupstream/main[m[33m)[m HEAD@{12}: merge upstream/main: Fast-forward
+[33mf1deef4[m HEAD@{13}: reset: moving to HEAD
+[33mf1deef4[m HEAD@{14}: checkout: moving from main to main
+[33mf1deef4[m HEAD@{15}: checkout: moving from main to main
+[33mf1deef4[m HEAD@{16}: reset: moving to upstream/main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{17}: checkout: moving from main to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{18}: checkout: moving from staging to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{19}: checkout: moving from main to staging
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{20}: checkout: moving from main to main
+[33mbc25382[m[33m ([m[1;31morigin/Intern[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{21}: commit (merge): Resolved merge conflict: Removed deleted files from upstream
+[33m52c8e12[m HEAD@{22}: checkout: moving from main to main
+[33m52c8e12[m HEAD@{23}: clone: from https://github.com/Abdu1964/biocypher-kg-new.git
