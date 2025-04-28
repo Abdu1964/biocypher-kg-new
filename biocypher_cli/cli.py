@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-User-friendly BioCypher KG Generator with support for Human and Drosophila melanogaster
+User-friendly BioCypher_KG CLI_Tool with support for Human and Drosophila melanogaster
 """
-from neo4j_connector import Neo4jConnector, get_neo4j_config_interactive
 import subprocess
 import sys
 import yaml
@@ -190,7 +189,7 @@ def get_file_selection(
             return result if allow_multiple else result[0]
 
 def display_config_summary(config: Dict[str, Union[str, List[str]]]) -> None:
-    """Display a beautiful summary of the configuration"""
+    """Display a summary of the configuration"""
     table = Table(title="\nConfiguration Summary", show_header=True, header_style="bold magenta")
     table.add_column("Option", style="cyan")
     table.add_column("Value", style="green")
@@ -252,7 +251,7 @@ def run_generation(cmd: List[str], show_logs: bool) -> None:
         if process.returncode == 0:
             console.print(Panel.fit(
                 "[bold green]✔ Knowledge Graph generation completed successfully![/]",
-                subtitle="Thank you for using BioCypher",
+                subtitle="Thank you for using BioCypher!",
                 style="green"
             ))
         else:
@@ -393,7 +392,6 @@ def main_menu() -> None:
                 "🚀 Generate Knowledge Graph",
                 "⚙️ Configuration Options",
                 "📊 View System Status",
-                #"🗃️ Neo4j Storage Options",
                 "❓ Help & Documentation",
                 "🚪 Exit"
             ],
@@ -407,8 +405,6 @@ def main_menu() -> None:
             config_options_workflow()
         elif choice == "📊 View System Status":
             view_system_status()
-        elif choice == "🗃️ Neo4j Storage Options":
-            neo4j_storage_workflow()
         elif choice == "❓ Help & Documentation":
             show_help()
         elif choice == "🚪 Exit":
@@ -417,7 +413,7 @@ def main_menu() -> None:
 
 def generate_kg_workflow() -> None:
     """Complete KG generation workflow with organism selection"""
-    # First select organism
+    # select organism
     organism = select(
         "Select organism to generate KG for:",
         choices=[
@@ -432,7 +428,7 @@ def generate_kg_workflow() -> None:
     if organism == "🔙 Back":
         return
     
-    # Then select configuration type
+    #select configuration type
     config_type = select(
         f"Select configuration type for {organism}:",
         choices=[
@@ -483,62 +479,7 @@ def generate_kg_workflow() -> None:
     
     if confirm("Start knowledge graph generation?", default=True).unsafe_ask():
         run_generation(cmd, show_logs)
-def neo4j_storage_workflow() -> None:
-    """Handle Neo4j storage operations"""
-    while True:
-        choice = select(
-            "Neo4j Storage Options",
-            choices=[
-                "🔌 Connect to Neo4j",
-                "💾 Store Knowledge Graph",
-                "🧹 Clear Database",
-                "🔍 Query Database",
-                "🔙 Back to Main Menu"
-            ],
-            qmark=">",
-            pointer="→"
-        ).unsafe_ask()
         
-        if choice == "🔌 Connect to Neo4j":
-            # Get connection details interactively
-            config = get_neo4j_config_interactive()
-            neo4j_conn = Neo4jConnector()
-            
-            # Test connection
-            if neo4j_conn.driver:
-                console.print("[green]✓ Connection successful![/]")
-            else:
-                console.print("[red]Failed to connect to Neo4j[/]")
-        
-        elif choice == "💾 Store Knowledge Graph":
-            if not hasattr(neo4j_conn, 'driver'):
-                console.print("[red]Please connect to Neo4j first[/]")
-                continue
-            
-            # Here you would load your KG data from files or memory
-            # This is a placeholder - adapt to your actual data structure
-            kg_data = {
-                'nodes': {
-                    'Gene': {
-                        'BRCA1': {'name': 'BRCA1', 'chromosome': '17'},
-                        'TP53': {'name': 'TP53', 'chromosome': '17'}
-                    }
-                },
-                'relationships': {
-                    'INTERACTS_WITH': {
-                        ('BRCA1', 'TP53'): {'evidence': 'experimental'}
-                    }
-                }
-            }
-            
-            if neo4j_conn.store_knowledge_graph(kg_data):
-                console.print("[green]Knowledge graph stored successfully![/]")
-        
-        elif choice == "🔙 Back to Main Menu":
-            if 'neo4j_conn' in locals():
-                neo4j_conn.close()
-            return
-
 def config_options_workflow() -> None:
     """Configuration options submenu"""
     while True:
